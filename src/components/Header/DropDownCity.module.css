@@ -1,0 +1,29 @@
+.btn {
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.dropDownList {
+  list-style: none;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 50px;
+  color: #ffffff;
+  display: none;
+  z-index: 1;
+}
+
+.dropdownContent:hover {
+  color: #33b7bc;
+  cursor: pointer;
+}
+
+.show {
+  list-style: none;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 50px;
+  color: #ffffff;
+  display: block;
+}
