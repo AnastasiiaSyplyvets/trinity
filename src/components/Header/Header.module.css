@@ -1,0 +1,11 @@
+.menueText {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 90px;
+}
+
+.headerBox {
+  display: flex;
+  align-items: space-between;
+}
