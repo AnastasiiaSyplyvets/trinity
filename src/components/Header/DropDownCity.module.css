@@ -9,9 +9,10 @@
   font-size: 15px;
   font-weight: 500;
   line-height: 50px;
-  color: #ffffff;
-  display: none;
-  z-index: 1;
+  /* color: #ffffff; */
+  background-color: #313131;
+  /* display: none;
+  z-index: 1; */
 }
 
 .dropdownContent:hover {
@@ -26,4 +27,17 @@
   line-height: 50px;
   color: #ffffff;
   display: block;
+}
+
+.div {
+  background-color: #313131;
+}
+.custom-select__control {
+  background-color: #313131 !important;
+  border: none !important;
+}
+
+.custom-select__control:hover {
+  color: #33b7bc !important;
+  cursor: pointer !important;
 }
