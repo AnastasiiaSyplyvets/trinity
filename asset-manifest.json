@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/trinity/static/css/main.fc61a51c.css",
-    "main.js": "/trinity/static/js/main.1d58c2fe.js",
+    "main.css": "/trinity/static/css/main.1a54f39f.css",
+    "main.js": "/trinity/static/js/main.d89520cf.js",
     "static/media/symbol-defs.svg": "/trinity/static/media/symbol-defs.627e074a0bacde8916f571860dca9f48.svg",
     "index.html": "/trinity/index.html",
-    "main.fc61a51c.css.map": "/trinity/static/css/main.fc61a51c.css.map",
-    "main.1d58c2fe.js.map": "/trinity/static/js/main.1d58c2fe.js.map"
+    "main.1a54f39f.css.map": "/trinity/static/css/main.1a54f39f.css.map",
+    "main.d89520cf.js.map": "/trinity/static/js/main.d89520cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc61a51c.css",
-    "static/js/main.1d58c2fe.js"
+    "static/css/main.1a54f39f.css",
+    "static/js/main.d89520cf.js"
   ]
 }
